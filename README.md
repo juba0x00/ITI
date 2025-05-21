@@ -1,4 +1,4 @@
-# ITI
+[database & sql mhara tech (1).pdf](https://github.com/user-attachments/files/20358852/database.sql.mhara.tech.1.pdf)# ITI
 
 امتحان ال PS (ال 9 شهور فقط)
 1- لسه مطبق جديد السنة دي ف اعلان ال 9 شهور سنة 2023 حل محل امتحان ال IT Basic 
@@ -81,6 +81,160 @@ https://www.englishtestsonline.com/general-es-vocabulary-mcq-test-with-answers-u
 
 
 
+
+
+انا امتحنت انهاردة في اسكندرية كدا نجحت صح؟ ولو حد يعرف اذاكر ايه للtrack exam software testing 
+
+الأول هتكلم عن تجربتي وحاجات تأخدوا بالكوا منها في الامتحان
+
+•  الenglish كويس جدا جدا وسهل اي حد يحله مش محتاج مذاكرة كبيرة الللينكات اللي كان فيها vocab وadvenced مجاش منها ولا سؤال اه كان في كلمات معرفهاش بس 2 - 3 كلمة بالظبط مجاش غير سؤالين من الgrammer دا 
+
+ Grammar (UsingEnglish.com )
+
+•  https://www.usingenglish.com/quizzes/32.html
+
+•  https://www.usingenglish.com/quizzes/29.html
+
+•  https://www.usingenglish.com/quizzes/30.html
+
+بالنسبة لل IQ اول ما تفتح الامتحانين لازم تضغط على كلمة ok هتلاقوها على الشمال تحت خالص دي بتحسبلك الوقت عشان تعرف باقي قد ايه وتقفل قبل ما الامتحان يقفل عليك دا مهم جدا.
+
+ال IQ مهما كنت مذاكر نصيحة ابدا باسئلة الباترين والaddress حتى اهم حاجة متسيبهمش للاخر انا عملت كدا والوقت هرب مني وكنت بهبد في باقي الاسئلة في بردو من Set 22 ل 27 حلوهم جت اسئلة منهم من كتاب 501 ادوهم اولوية في الوقت بردو لان رغي كتير ولازم وانت بتقرا تطلع نقط من الكلام دا هيساعدك ف الحل يعني لو مثلا قالك على لابس تيشيرت ازرق ورنا لابسة جيبة بني اكتب قدامك ف الورقة بس ايدك سريعة علشان تحل السؤال.
+
+•  اهم حاجة تعرف تضرب وتجمع وتقسم وتطرح ارقام عشرية مهم جدا
+
+•  واتفرجوا على فيديوهات البنت الهندية دي هي اللي انقذتني ليله الامتحان قبل ما تفتحوا موقع indiabix دا لان مكنتش فاهمة حاجة 
+
+شرح Percentages
+
+https://youtu.be/_TdyTKpNY8g?si=ZNHqg6MmhS1tC6rG
+
+التطبيق:
+
+https://www.indiabix.com/aptitude/percentage/
+
+Ratio & Proportions شرح
+
+https://youtu.be/h1_0rZ9y0nw?si=kuyshlTcW5AGIqxl
+
+التطبيق: (وبيجي اسهل من كدا بس لازم تحل الصعب)
+
+https://www.indiabix.com/aptitude/ratio-and-proportion/
+
+شرح Average
+
+https://youtu.be/eT4U44eTDvo?si=OhCB86YDBInG8rDN
+
+https://youtu.be/33Al9Qyugp0?si=pNQRewcI4k5BBA1U
+
+https://youtu.be/6gPmlZhY7lo?si=XyGpdVFZ-fwDeIze
+
+التطبيق:
+
+https://www.indiabix.com/aptitude/average/
+
+reasoning verbal
+
+https://testbook.com/reasoning/verbal-reasoning
+
+دي تجربتي واهم حاجة تقفل الامتحانين قبل ما يقفلوا عليكم..
+
+ودي نقط جمعتها قبل الامتحان ممكن حد يستفيد منها 
+
+IQ 36 questions in 40 min
+
+English 26 questions 30 min
+
+advanced test  vocab
+
+
+315 * 14 ٪
+
+
+اتعملوا ازاى تضربوا وتحسبوا بسرعة
+
+
+https://youtu.be/_TdyTKpNY8g?si=jD-xQyT7-SuDLVd7
+
+
+جالى percentage  ratio address pattern 
+
+
+اعرفوا افكار المسائل بس كلها من indiabix كل مسائلة فكرتها وقانوها عامل ازاى
+
+
+1: match addresses   2: pattern
+
+
+مسائل تافهه جدا ، جمع ٣ ارقام ، مسئلة فيها جمع وطرح وقسمة و الارقام احاد بس يعني مكونة من رقم واحد مثلاً كان جايب 4+0*0 بتساوي كام ، 2/2*3 و حاجات شبه كدا يعني مفيش الصعوبة اللي ف المسائل اللي ف المواقع ده تماماً
+
+
+يجيبلك حروف واشكال ويقولك ده even ولا odd 
+
+
+نسبة برضو سهله زي مثلاً (X*25%=42.5 طلع X)
+
+
+جدول فيه بيانات وبيطلب منك تطلعله نسبة حاجه من الجدول
+
+
+ويجبلك اربع اختيارات في واحد منهم صح زي المكتوب فوق والباقي بيبقي غلط بيبقي في حجات زي الفاصله والنقطة والكلمه نفسها حرف متغير او كده Odd و even بتشوف العدد زوجي ولا فردي
+
+
+SET26&27
+
+
+بيكون تلات اختياوات بينهم حاجه مشتركه والاختيار الرابع هو ال odd
+
+
+والجداول دي هتشوفي طالب ايه وتطلعي نتيجته من ارقام الجدول يعني تجمعي عمود معين او تقسمي عمود علي عمود وتشوفي اقل نسبه وكدا
+
+
+if وضماير الوصل و اكيد الازمنه
+
+
+جات اسئله رسوم احصائيه و يقولك طلع اكبر نسبه او مجموع النسبه سهله متتخضش من الجدول المعلومه مباشره 
+
+
+ودا رابط المسأله السؤال التالت مجتش بالحرف بس نفس الفكرة https://www.indiabix.com/aptitude/problems-on-numbers/
+
+
+Sets 23–27: Logic Problems
+
+
+ضرب عدد عشري في عدد عشري آخر
+
+
+https://youtu.be/X85RR1k3U1I?si=Ou3waa5YPJs6un7T[backup_codes_20250407234632.txt](https://github.com/user-attachments/files/20358848/backup_codes_20250407234632.txt)[Burp_Suite_Professional_-_licensed_to_trial_user.txt](https://github.com/user-attachments/files/20358854/Burp_Suite_Professional_-_licensed_to_trial_user.txt)
+
+
+       كيفية ضرب وقسمة االعداد العشرية
+
+https://youtu.be/fezvbVkFbPc?si=HXruffnLvE6rK0a7
+
+       وده شرح مهم لترتيب العمليات الحسابيه
+
+https://youtu.be/MPPYsl6QbQ4?si=5XdVERQsfMtH85sK
+
+جه أسئلة كتير ماتشينج
+
+
+الادريس و باترن سهلين جدا ..جالي مسألة الاتنين الي دخلو المول و واحد أدى التاني 32 الي كنتو بتتخانقو عليها دي...سؤال verbal reasoning
+
+
+....*25%= 37.5
+
+---
+
 https://drive.google.com/drive/folders/1e8a22h7JCEaFRnrIevOUJ1Cu-PULabx2
 
 دا لينك درايف شامل معظم الحاجات الي اتقال انها جت ف الامتحان
+
+
+
+
+
+
+[backup_codes_20250407234632.txt](https://github.com/user-attachments/files/20358853/backup_codes_20250407234632.txt)[Uploading Burp_Suite_Professional_-_licensed_to_trial_user.txt…]()[database & sql mhara tech (1).pdf](https://github.com/user-attachments/files/20358855/database.sql.mhara.tech.1.pdf)
+
+
